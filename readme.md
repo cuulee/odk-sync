@@ -1,5 +1,7 @@
 # odk-sync
 
+**Experimental - use with caution, may not be supported in the future**
+
 synchronize odk data
 
 # api

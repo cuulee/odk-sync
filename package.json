@@ -1,7 +1,9 @@
 {
+  "version": "1.0.0",
   "scripts": {
     "start": "electron app.js --disable-http-cache"
   },
+  "name": "odk-sync",
   "dependencies": {
     "collect-stream": "^1.1.1",
     "concat-stream": "^1.5.1",
